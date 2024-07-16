@@ -1,4 +1,5 @@
-"# AWS-Serverless-Webapp" 
+"# AWS-Serverless-Webapp"
+
 Pre-requisites:
   AWS Accounrt is Required
   IAM Roles shoud be Created for lambda to access the dynampdb
